@@ -1,0 +1,15 @@
+[submodule "mod-bg-reward"]
+	path = mod-bg-reward
+	url = https://github.com/azerothcore/mod-bg-reward.git
+[submodule "SingleCore_TC"]
+	path = SingleCore_TC
+	url = https://github.com/conan513/SingleCore_TC.git
+[submodule "AzerothCore-Content"]
+	path = AzerothCore-Content
+	url = https://github.com/StygianTheBest/AzerothCore-Content.git
+[submodule "Solocraft"]
+	path = Solocraft
+	url = https://github.com/DavidMacalaster/Solocraft.git
+[submodule "TrinityCore"]
+	path = TrinityCore
+	url = https://github.com/TrinityCore/TrinityCore.git
